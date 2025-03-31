@@ -1,9 +1,12 @@
 ---
 title: Repellendus et autem et vel laborum
 author: admin
+type: post
 date: 2025-03-29T20:39:43+00:00
 url: /repellendus-et-autem-et-vel-laborum/
 featured_image: /wp-content/uploads/2025/03/2f74ee1e-ddc4-3180-b67d-08f5e8fec1e7.jpg
+fakerpress_flag:
+  - 1
 
 ---
 * * *

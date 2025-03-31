@@ -1,13 +1,16 @@
 ---
 title: Alias amet eum suscipit quam commodi
 author: admin
+type: post
 date: 2025-03-30T02:43:05+00:00
 excerpt: |
   Expedita ut sapiente.
-
+  
   Quam perspiciatis harum.
 url: /alias-amet-eum-suscipit-quam-commodi/
 featured_image: /wp-content/uploads/2025/03/0247850f-7a78-3617-a82d-aa75a7c0ee7c.jpg
+fakerpress_flag:
+  - 1
 categories:
   - 未分類
 

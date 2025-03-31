@@ -1,10 +1,13 @@
 ---
 title: Minus error repellendus consequatur eveniet voluptatibus
 author: admin
+type: post
 date: 2025-03-29T16:11:32+00:00
 excerpt: Mollitia.
 url: /minus-error-repellendus-consequatur-eveniet-voluptatibus/
 featured_image: /wp-content/uploads/2025/03/c082df04-2956-3402-857a-8cf822b61aaf.jpg
+fakerpress_flag:
+  - 1
 categories:
   - 未分類
 
@@ -35,7 +38,7 @@ Perspiciatis harum quaerat officia aut. eveniet itaque ea suscipit nobis accusam
   2. Assumenda
   3. Tempore
 
-![]({{ "/wp-content/uploads/2025/03/46eeb8bd-7d6b-3b68-a40d-c2436f474855.jpg" | relURL }})
+![](./wp-content/uploads/2025/03/46eeb8bd-7d6b-3b68-a40d-c2436f474855.jpg)
 
 # Est neque amet sed. Ut dolorem dolores deserunt excepturi rerum est. Quod aliquid rerum maxime dolores
 

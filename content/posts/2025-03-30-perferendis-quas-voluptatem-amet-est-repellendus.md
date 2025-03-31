@@ -1,9 +1,12 @@
 ---
 title: Perferendis quas voluptatem amet est repellendus
 author: admin
+type: post
 date: 2025-03-29T15:17:38+00:00
 excerpt: Labore nisi.
 url: /perferendis-quas-voluptatem-amet-est-repellendus/
+fakerpress_flag:
+  - 1
 categories:
   - 未分類
 
@@ -16,7 +19,7 @@ categories:
 
 #### Est deserunt earum qui explicabo ipsa odit non. Facilis voluptate neque earum ex laborum pariatur. Delectus ad sed qui
 
-![]({{ "/wp-content/uploads/2025/03/628cea34-c882-354f-96a5-c5d9e9ec8cd0.jpg" | relURL }})
+![](./wp-content/uploads/2025/03/628cea34-c882-354f-96a5-c5d9e9ec8cd0.jpg)
 
 ### Et dolore qui minima consectetur. Quos et id qui perferendis nihil. Minus fugit nisi dolor enim officia repudiandae
 
@@ -30,7 +33,7 @@ categories:
 
 #### Id dolorum accusantium quia est voluptas et. Iste totam est consequatur eos animi distinctio. Quasi dolores quasi deleniti magnam
 
-![Aspernatur delectus saepe provident ullam eaque maiores]({{ "/wp-content/uploads/2025/03/e9208a19-05b5-3379-9d29-f345c357ade5.jpg" | relURL }})
+![Aspernatur delectus saepe provident ullam eaque maiores](./wp-content/uploads/2025/03/e9208a19-05b5-3379-9d29-f345c357ade5.jpg)
 
 [Esse facilis praesentium][1] [voluptatem][2] Aut ipsa sed asperiores enim reiciendis. Ullam [[vero magnam][3]][4] aut aut [[dignissimos. Ad accusantium quia quia][5]][6] [voluptatem in][7] sed. Vel [[hic molestiae odit.][8]][9] [et consequatur quo animi eum][10] Quidem necessitatibus ut ut quibusdam. dolorem animi aut accusantium inventore. sit voluptatem nam minus sit.
 

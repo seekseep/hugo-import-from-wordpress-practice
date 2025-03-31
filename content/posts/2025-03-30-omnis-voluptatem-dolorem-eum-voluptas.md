@@ -1,9 +1,12 @@
 ---
 title: Omnis voluptatem dolorem eum voluptas
 author: admin
+type: post
 date: 2025-03-30T03:28:59+00:00
 url: /omnis-voluptatem-dolorem-eum-voluptas/
 featured_image: /wp-content/uploads/2025/03/628cea34-c882-354f-96a5-c5d9e9ec8cd0.jpg
+fakerpress_flag:
+  - 1
 
 ---
 ###### Deleniti reiciendis omnis quasi dolorum omnis perspiciatis ratione dolor. Vel et ducimus ea sunt quod
