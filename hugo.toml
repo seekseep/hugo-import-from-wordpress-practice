@@ -1,0 +1,4 @@
+baseURL = "https://seekseep.github.io/hugo-import-from-wordpress-practice/"
+languageCode = "ja"
+title = "hugo-import-from-wordpress-practice"
+theme = "PaperMod"
