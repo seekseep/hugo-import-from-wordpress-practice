@@ -15,7 +15,7 @@ categories:
 
 * * *
 
-![Laborum porro harum quisquam temporibus](/wp-content/uploads/2025/03/a9da3332-8058-3b7c-b55d-dce3e74f66f9.jpg)
+![Laborum porro harum quisquam temporibus]({{ "/wp-content/uploads/2025/03/a9da3332-8058-3b7c-b55d-dce3e74f66f9.jpg" | relURL }})
 
 ##### Nostrum voluptatem facilis facere ut aliquam. Facilis quisquam est eos. Commodi aut inventore ad aut. Excepturi optio dolor vel ad qui id
 

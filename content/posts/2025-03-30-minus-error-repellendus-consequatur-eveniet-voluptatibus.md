@@ -35,7 +35,7 @@ Perspiciatis harum quaerat officia aut. eveniet itaque ea suscipit nobis accusam
   2. Assumenda
   3. Tempore
 
-![](/wp-content/uploads/2025/03/46eeb8bd-7d6b-3b68-a40d-c2436f474855.jpg)
+![]({{ "/wp-content/uploads/2025/03/46eeb8bd-7d6b-3b68-a40d-c2436f474855.jpg" | relURL }})
 
 # Est neque amet sed. Ut dolorem dolores deserunt excepturi rerum est. Quod aliquid rerum maxime dolores
 

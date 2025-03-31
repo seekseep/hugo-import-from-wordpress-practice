@@ -28,7 +28,7 @@ Laboriosam necessitatibus eos ipsum inventore. Molestias qui a possimus. Provide
 
 * * *
 
-![Praesentium eligendi voluptatem dignissimos expedita occaecati at dolorem magni natus](/wp-content/uploads/2025/03/f2fa1d16-95f8-3f61-979a-9a75a7f1e1a0.jpg)
+![Praesentium eligendi voluptatem dignissimos expedita occaecati at dolorem magni natus]({{ "/wp-content/uploads/2025/03/f2fa1d16-95f8-3f61-979a-9a75a7f1e1a0.jpg" | relURL }})
 
  [1]: http://lesch.com/non-aliquid-culpa-sed-nobis-atque-harum-reprehenderit "Facilis."
  [2]: http://beahan.com/ut-voluptates-corrupti-eveniet-doloremque-est-hic-esse "Delectus rerum labore libero corrupti."
