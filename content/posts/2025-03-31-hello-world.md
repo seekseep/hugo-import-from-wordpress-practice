@@ -1,7 +1,6 @@
 ---
 title: Hello world!
 author: admin
-type: post
 date: 2025-03-31T12:33:53+00:00
 url: /hello-world/
 categories:

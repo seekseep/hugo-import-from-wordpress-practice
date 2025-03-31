@@ -1,12 +1,9 @@
 ---
 title: Quam vitae similique occaecati atque
 author: admin
-type: post
 date: 2025-03-30T05:27:48+00:00
 url: /quam-vitae-similique-occaecati-atque/
 featured_image: /wp-content/uploads/2025/03/f4b114cf-6977-351a-b34d-ff998be18380.jpg
-fakerpress_flag:
-  - 1
 categories:
   - 未分類
 
@@ -31,7 +28,7 @@ Laboriosam necessitatibus eos ipsum inventore. Molestias qui a possimus. Provide
 
 * * *
 
-![Praesentium eligendi voluptatem dignissimos expedita occaecati at dolorem magni natus](./wp-content/uploads/2025/03/f2fa1d16-95f8-3f61-979a-9a75a7f1e1a0.jpg)
+![Praesentium eligendi voluptatem dignissimos expedita occaecati at dolorem magni natus](../wp-content/uploads/2025/03/f2fa1d16-95f8-3f61-979a-9a75a7f1e1a0.jpg)
 
  [1]: http://lesch.com/non-aliquid-culpa-sed-nobis-atque-harum-reprehenderit "Facilis."
  [2]: http://beahan.com/ut-voluptates-corrupti-eveniet-doloremque-est-hic-esse "Delectus rerum labore libero corrupti."
